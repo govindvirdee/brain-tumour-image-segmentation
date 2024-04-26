@@ -116,7 +116,7 @@ def prediction(test, model, model_seg):
   '''
 
   #directory
-  directory = "./"
+  directory = "./data/kaggle_3m/"
 
   #Creating empty list to store the results
   mask = []
